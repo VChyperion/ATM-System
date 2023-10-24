@@ -1,0 +1,6 @@
+1,Humphery,Ross,01/08/12,469,Deposit
+2,Legen,McShazz,28/11/19,1540,Current
+3,Vince,Bui,08/06/20,1280,Savings
+4,Josh,Pen,19/03/15,258,Deposit
+5,Jack,Guard,17/04/17,632,Savings
+6,Ben,Helling,04/12/10,1937,Current
